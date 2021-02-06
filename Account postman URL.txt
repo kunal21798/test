@@ -1,0 +1,28 @@
+
+for welcome message
+Get - http://localhost:9000/api/account     
+
+
+
+for get all details
+Get all - http://localhost:9000/api/account/all
+
+
+
+for get single detail
+Get - http://localhost:9000/api/account/77
+
+
+
+for adding new detail
+Post - http://localhost:9000/api/account/
+
+
+
+for updating existing detail
+Put - http://localhost:9000/api/account/77
+
+
+
+for deleting detail
+Delete - http://localhost:9000/api/account/77
